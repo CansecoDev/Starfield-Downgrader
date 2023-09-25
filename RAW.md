@@ -5,10 +5,12 @@ Version
 From         To              SteamCMD Command                                   SteamDB Manifests                               Steam Product
 
 # Binaries                                                                      https://steamdb.info/depot/1716741/manifests/   https://store.steampowered.com/app/1716740
+1.7.29       1.7.33       :  download_depot 1716740 1716741 3276175983502685135
 1.7.29       1.7.29       :  download_depot 1716740 1716741 8383043874900915235
 1.7.23       1.7.23       :  download_depot 1716740 1716741 4447793252473787578
 
 # GameData                                                                      https://steamdb.info/depot/1716742/manifests/   https://store.steampowered.com/app/1716740
+1.7.29       1.7.33       :  download_depot 1716740 1716742 7068708531301311719
 1.7.29       1.7.29       :  download_depot 1716740 1716742 7415678699677924287
 1.7.23       1.7.23       :  download_depot 1716740 1716742 6008474643612282085
 
